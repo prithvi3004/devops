@@ -1,2 +1,2 @@
 # devops
-This is for learning purpose
+This is for maven project...
